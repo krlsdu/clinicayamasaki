@@ -1,2 +1,2 @@
 # clinicayamasaki
-Site institucional stático one-page
+Site for business static and one-page
